@@ -1,0 +1,15 @@
+{
+  "name": "esher-widget",
+  "version": "1.0.0",
+  "description": "AI-powered tracking and analytics for eCommerce sites",
+  "main": "dist/esher-widget.js",
+  "unpkg": "dist/esher-widget.js",
+  "jsdelivr": "dist/esher-widget.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kustomAI/esher-widget.git"
+  },
+  "keywords": ["esher", "IntuitionLabs", "ecommerce", "esherai", "esher vanillajs"],
+  "author": "IntuitionLabs",
+  "license": "MIT"
+}
